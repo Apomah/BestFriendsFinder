@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
                 case R.id.navigation_home:
                     setContentView(R.layout.activity_main);
                     return true;
-                case R.id.navigation_dashboard:
+                case R.id.navigation_about:
                     setContentView(R.layout.about_layout);
                     return true;
                 case R.id.navigation_notifications:
