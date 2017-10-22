@@ -3,6 +3,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
-    <string name="about">Welcome to Best Friend Finder, where we fuck bitches and get money.</string>
+    <string name="about">For over 30 years, Best Friends Animal Society has been running the nation’s largest no-kill sanctuary for companion animals and building effective programs that reduce the number of animals entering shelters.</string>
+    <string name="about1">Our mission is to bring about a time when there are No More Homeless Pets. One of the ways we\'re working towards this is streamlining the adoption process for people looking for new best friends. This app is part of that effort.</string>
+    <string name="about2">If you want to learn more about our organization, you can visit us at https://bestfriends.org.</string>
     <string name="title_activity_temp">temp</string>
 </resources>
